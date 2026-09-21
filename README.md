@@ -1,6 +1,7 @@
 # Rock Paper Scissors
 
-Name: BASALO, [CM FIRST NAME]
+Name: IAN S, BASALO
+
 Section: IT 120-ILGX3
 
 ## How to Run
