@@ -44,7 +44,7 @@ String? validateMove(String? input) {
   return null;
 }
 
-/// ask the player until he/she gave the valid move
+/// Check if the player's move is valid.
 String getMove(String PrName) {
   String? move;
 
